@@ -17,4 +17,6 @@ Operating Systems already used:
 Linux (distros: Mint, Opensuse and Ubuntu), Windows and MacOS.   
 Android and iOS.
 
-Website Developed: https://pedeamoramarilia.com.br (python/django)
+Websites Developed: 
+- https://pedeamoramarilia.com.br
+- https://fplanconsultoria.com.br
