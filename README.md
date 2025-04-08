@@ -1,32 +1,120 @@
-### Hi, I'm Márcio Ramos Corrêa!
+### Hi there! I'm Márcio Corrêa 👋  
 
-#### I've been working as Software QA Engineer.
+**Senior QA Engineer | Test Automation Specialist | Quality Advocate**  
+*Building robust testing solutions for mission-critical systems*  
 
-With over 10 years of experience in the IT industry, I specialize in ensuring the quality and efficiency of software systems through comprehensive functional and non-functional testing. My expertise spans a wide range of domains, including back-office systems, CRM platforms, e-commerce solutions, and financial systems (e.g., Open Finance, receivables anticipation, and bank slip generation). I am passionate about delivering high-quality software and have a proven track record of contributing to successful projects. I am an enthusiast and creator of the Cypress BR group on [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cypress_br).
+🔧 **Tech Stack**:  
+`Appium`, `BackstopJS`, `BrowserStack`, `Cucumber`, `Cypress`, `DynamoDB`, `Docker`, `Git`, `GitLab`, `Jenkins`, `Jira`, `JMeter`, `JUnit`, `MongoDB`, `MySQL`, `NUnit`, `Oracle`, `Percy`, `PostgreSQL`, `Rest-Assured`, `RSpec`, `Selenium WebDriver`, `SoapUI`, `TestCafe`, `TestLink`, `XUnit`.
 
-Certifications & Expertise:
- - Certified Tester Foundation Level (CTFL)
- - Software Testing and Quality Program by Júlio de Lima
- - REST API Testing Development by Júlio de Lima
+🧑‍💻 **Languages**:  
+`C#` `Kotlin` `Java` `JavaScript` `Python`
 
-I am a collaborative and proactive professional, always ready to contribute ideas and suggestions throughout the entire software development lifecycle. My experience includes working with a variety of testing tools, frameworks, and programming languages, enabling me to adapt to diverse project requirements and deliver exceptional results.
+🌱 **Currently Focused On**:  
+- Automating financial/payment systems at PagBank  
+- Integrating AI tools into test automation workflows  
+- Mentoring junior QA engineers  
 
-Technical Skills:
+💡 **Passionate About**:  
+- Shift-left testing strategies  
+- Visualizing tests with **mind maps**  
+- CI/CD pipeline optimization  
 
-Tools & Frameworks:
-Appium, BackstopJS, BrowserStack, Cucumber, Cypress, Django, DynamoDB, Docker, Git, GitLab, Jenkins, Jira, JMeter, JUnit, MongoDB, MySQL, NUnit, Oracle, Percy, PostgreSQL, Rest-Assured, RSpec, Selenium WebDriver, SoapUI, TestCafe, TestLink, Vim, XUnit.
-
-Programming Languages:
-C#, Java, JavaScript, Kotlin, Python, Ruby, Shell Script.
-
-Operating Systems:
- - Desktop: Linux (Mint, OpenSUSE, Ubuntu), macOS, Windows.
- - Mobile: Android, iOS.
-
-Websites Developed: 
+📌 **Websites Developed**:  
 - https://pedeamoramarilia.com.br
 - https://fplanconsultoria.com.br
 
-Others Social Networks:  
-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciorc/)  
-- [![X Badge](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/marciorc_)
+📫 **Let's Connect**:  
+
+<div align="center">
+  <a href="mailto:marcio.ramos.correa@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF6584&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a> 
+  <a href="https://www.linkedin.com/in/marciorc/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
+  <a href="https://wa.me/5516996269255">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp logo" />
+  </a>
+  <a href="https://x.com/marciorc_">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="35" alt="X logo">
+  </a>
+</div>
+
+---
+
+```mermaid
+mindmap
+  root((Márcio Corrêa))
+  ::icon(fa-solid fa-circle-user)
+    Professional Profile
+    ::icon(fa-solid fa-user-tie)
+      QA Engineer
+      ::icon(fa-solid fa-bug-slash)
+      Test Automation Architect
+      ::icon(fa-solid fa-robot)
+      CTFL Certified
+      ::icon(fa-solid fa-certificate)
+    Core Skills
+    ::icon(fa-solid fa-jedi)
+      Automation
+      ::icon(fa-solid fa-user-ninja)
+        Appium
+        ::icon(fa-solid fa-mobile-screen-button)
+        Selenium/Cypress
+        ::icon(fa-solid fa-window-maximize)
+        API Testing
+        ::icon(fa-solid fa-arrows-turn-to-dots)
+      Programming
+      ::icon(fa-solid fa-laptop-code)
+        Kotlin
+        ::icon(fa-solid fa-k)
+        Java
+        ::icon(fa-brands fa-java) 
+        Python
+        ::icon(fa-brands fa-python)
+      DevOps
+      ::icon(fa-brands fa-docker)
+        CI/CD Pipelines
+        ::icon(fa-solid fa-arrows-spin)
+        Jenkins/GitHub Actions
+        ::icon(fa-brands fa-jenkins)
+    Expertise
+    ::icon(fa-solid fa-brain)
+      Financial Systems
+      ::icon(fa-solid fa-landmark)
+        Payments
+        ::icon(fa-solid fa-money-bill)
+        Open Banking
+        ::icon(fa-solid fa-coins)
+      Methodologies
+      ::icon(fa-solid fa-book)
+        Shift-Left
+        ::icon(fa-regular fa-circle-left)
+        Risk-Based Testing
+        ::icon(fa-solid fa-circle-radiation)
+    Differentiators
+    ::icon(fa-solid fa-plus-minus)
+      Mind Mapping
+      ::icon(fa-regular fa-map)
+      SDLC Integration
+      ::icon(fa-solid fa-group-arrows-rotate)
+      Mentoring
+      ::icon(fa-solid fa-people-arrows)
+```
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciorc&layout=compact&langs_count=20&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marciorc&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rfahham&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" height="175"/>
+</div>
+
+---
+
+<!-- Contador de Visitantes -->
+<div align="center">
+  <br><p align="center"><b>Visitor count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{marciorc}/count.svg" /></p> 
+  <br>
+</div>
