@@ -107,7 +107,7 @@ mindmap
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marciorc&theme=calm&show_icons=true&hide_border=false&count_private=true"/>
   <br>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marciorc&theme=calm&hide_border=false"/>   
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marciorc&theme=calm"/>   
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciorc&theme=calm&show_icons=true&hide_border=false&layout=compact" height="175"/>
 </div>
