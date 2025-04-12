@@ -7,7 +7,7 @@
 `Appium`, `BackstopJS`, `BrowserStack`, `Cucumber`, `Cypress`, `DynamoDB`, `Docker`, `Git`, `GitLab`, `Jenkins`, `Jira`, `JMeter`, `JUnit`, `MongoDB`, `MySQL`, `NUnit`, `Oracle`, `Percy`, `PostgreSQL`, `Rest-Assured`, `RSpec`, `Selenium WebDriver`, `SoapUI`, `TestCafe`, `TestLink`, `XUnit`.
 
 🧑‍💻 **Languages**:  
-`C#` `Kotlin` `Java` `JavaScript` `Python`
+`C#` `Kotlin` `Java` `JavaScript` `Python` `Ruby`
 
 🌱 **Currently Focused On**:  
 - Automating financial/payment systems at PagBank  
@@ -106,6 +106,8 @@ mindmap
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marciorc&theme=calm&show_icons=true&hide_border=false&count_private=true"/>
+  <br>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marciorc&theme=calm"/>   
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciorc&theme=calm&show_icons=true&hide_border=false&layout=compact" height="175"/>
 </div>
