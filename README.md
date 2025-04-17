@@ -4,10 +4,16 @@
 *Building robust testing solutions for mission-critical systems*  
 
 🔧 **Tech Stack**:  
-`Appium`, `BackstopJS`, `BrowserStack`, `Cucumber`, `Cypress`, `DynamoDB`, `Docker`, `Git`, `GitLab`, `Jenkins`, `Jira`, `JMeter`, `JUnit`, `MongoDB`, `MySQL`, `NUnit`, `Oracle`, `Percy`, `PostgreSQL`, `Rest-Assured`, `RSpec`, `Selenium WebDriver`, `SoapUI`, `TestCafe`, `TestLink`, `XUnit`.
+`Appium`, `BackstopJS`, `BrowserStack`, `Cucumber`, `Cypress`, `Docker`, `Git`, `GitLab`, `Jenkins`, `Jira`, `JMeter`, `JUnit`, `Percy`, `Postman`, `Rest-Assured`, `Selenium`, `TestCafe`.
 
 🧑‍💻 **Languages**:  
-`C#` `Kotlin` `Java` `JavaScript` `Python` `Ruby`
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+
 
 🌱 **Currently Focused On**:  
 - Automating financial/payment systems at PagBank  
@@ -31,6 +37,9 @@
   </a> 
   <a href="https://www.linkedin.com/in/marciorc/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
+  <a href="https://t.me/marcio_rc">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="WhatsApp logo" />
   </a>
   <a href="https://wa.me/5516996269255">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="WhatsApp logo" />
