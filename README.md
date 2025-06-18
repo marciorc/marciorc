@@ -1,6 +1,6 @@
 ### Hi there! I'm Márcio Corrêa 👋  
 
-**Senior QA Engineer | Test Automation Specialist | Quality Advocate | Mind Mapper**  
+**Senior QA Engineer | Quality Advocate | Mind Mapper**  
 *Building robust testing solutions for mission-critical systems*  
 
 🔧 **Tech Stack**:  
