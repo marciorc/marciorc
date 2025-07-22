@@ -120,10 +120,3 @@ mindmap
 </div>
 
 ---
-
-<!-- Contador de Visitantes -->
-<div align="center">
-  <br><p align="center"><b>Visitor count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{marciorc}/count.svg" /></p> 
-  <br>
-</div>
